@@ -1,0 +1,5 @@
+package main;
+//µ–»Àµ√∑÷
+public interface Enemy {
+	public abstract int getScore();
+}
